@@ -37,5 +37,5 @@ Me apasiona crear soluciones eficientes, estructurar código sólido y explorar 
 ---
 
 ### 📬 ¿Hablamos?
-*   💼 **LinkedIn:** [[LinkedIn]([url](https://www.linkedin.com/in/bryan-cede%C3%B1o-73b917261/))]
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/bryan-cede%C3%B1o-73b917261/]
 *   📧 **Email:** [bryan.cedeno950@gmail.com]
