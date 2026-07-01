@@ -38,12 +38,12 @@ Me apasiona crear soluciones eficientes, estructurar código sólido y explorar 
 #### 🔹 [ERP_ClubE-Sports]
 *   **Descripción:** Desarrollo de un ERP para jugadores y entrenador.
 *   **Stack:** Node.js / Java (Spring Boot) & Base de Datos.
-*   *[Link al repositorio]([url](https://gitlab.com/abp21/erp_clube-sports))*
+*   *[https://gitlab.com/abp21/erp_clube-sports]*
 
 #### 🔹 [MatMatch]
 *   **Descripción:** Aplicación móvil nativa desarrollada para luchadores de artes marciales.
 *   **Stack:** Kotlin, Jetpack Compose, Firebase.
-*   *[Link al repositorio]([url](https://gitlab.com/cedeno.mora.bryan.stiven/matmatch))*
+*   *[https://gitlab.com/cedeno.mora.bryan.stiven/matmatch]*
 
 ---
 
